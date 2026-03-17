@@ -31,4 +31,6 @@ This project helped me strengthen my ability to turn raw, complex datasets into 
 
 Always learning. Always building. 📈
 
-Dashboard: 
+Dashboard Preview: 
+
+![Dashboard Preview](https://github.com/dee8864/Excel-MIS-Dashboard/blob/main/Excel-MIS-Dashboard.png)
